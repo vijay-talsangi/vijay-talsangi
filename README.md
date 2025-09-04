@@ -27,7 +27,10 @@ Building valuable products to make life easier. Working on Ai-agents and their u
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vijay-talsangi&theme=dark&hide_border=true&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+<a href="http://www.github.com/vijay-talsangi">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-talsangi&theme=dark&hide_border=true" alt="GitHub Streak" />
+</a>
+
 
 
 <br/>
