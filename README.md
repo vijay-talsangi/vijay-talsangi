@@ -1,4 +1,4 @@
-Hi My name is Vijay Talsangi
+Vijay Talsangi
 =======================================================================================================================================
 
 Full Stack Developer
@@ -7,7 +7,7 @@ Full Stack Developer
 Building valuable products to make life easier. Working on Ai-agents and their uses.
 
 * 🌍  I'm based in Pune, India
-* 🚀  I'm currently working on [Codelinkr](http://codelinkr.vercel.app)
+* 🚀  I'm currently working on [Vebit](https://vebit.app/)
 * 🧠  I'm currently learning Next-js, DevOps
 
 <p align="left">
