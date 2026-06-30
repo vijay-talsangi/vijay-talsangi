@@ -19,7 +19,7 @@ An AI-driven platform for generating functional websites instantly.
 ---
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,php,bash,vscode,html,react,nextjs,tailwind,bootstrap,vite,nodejs,express,mongodb,mysql,postgres,supabase,aws,docker,kubernetes,git&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,golang,js,ts,java,php,bash,vscode,html,react,nextjs,tailwind,bootstrap,vite,nodejs,express,mongodb,mysql,postgres,supabase,aws,docker,kubernetes,git&perline=12)](https://skillicons.dev)
 
 ---
 
